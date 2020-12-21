@@ -1,0 +1,23 @@
+.header{
+    background-color: rgb(148, 186, 255);
+    display: flex;
+    justify-content:space-between;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+    font-size:15px;
+    background-color: rgb(148, 186, 255);
+    font-family:sans-serif;
+    font-weight:400;
+    color:white;
+}
+
+.startbody{
+    display: flex;
+    justify-content:space-between;
+    background-color: rgb(255, 180, 251);
+    flex-wrap: wrap;
+    text-align: center;
+}
